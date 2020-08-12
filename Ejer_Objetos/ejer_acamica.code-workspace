@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\.."
+		},
+		{
+			"path": "..\\..\\..\\..\\VELEZ\\Ambientes\\test_Vtex-Peru_IO"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Full-Stack-Acamica"
+	}
+}
